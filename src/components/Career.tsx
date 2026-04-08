@@ -35,7 +35,7 @@ const Career = () => {
                 <h4>Software Developer</h4>
                 <h5>Script Build Software Pvt. Ltd.</h5>
               </div>
-              <h3>Dec 2023 - Sep 2025</h3>
+              <h3>Dec 2022 - Sep 2025</h3>
             </div>
             <p>
               • Developed scalable MEAN stack applications using Angular, Node.js, Express.js, and MongoDB.<br/>
